@@ -4,14 +4,10 @@
 
 **Title:** As a client, I want the website to display ads in a sidebar so that it generates revenue without disrupting the user experience.
 
----
-
 ## Assumptions / Preconditions
 - The recipe page has been implemented.  
 - Ads have been obtained by management/sponsors.  
 - The ad content is provided via an ad management system or database.  
-
----
 
 ## Description
 The ad panel should be visible but unobtrusive so users can browse recipes without feeling overwhelmed. Ads should be small enough to avoid disrupting the main content but large enough to be noticed and clicked, supporting website revenue goals.
@@ -25,8 +21,6 @@ The panel should automatically rotate ads or display relevant ads based on recip
 - Users can fully interact with recipes without interference.  
 - Balanced design that supports both business needs and user experience.  
 - Panel must be responsive on desktop, tablets, and mobile devices.
-
----
 
 ## Acceptance Criteria (Given / When / Then Format)
 
@@ -65,8 +59,6 @@ The panel should automatically rotate ads or display relevant ads based on recip
 **When** the user scrolls, clicks, comments, or interacts with a recipe,  
 **Then** the ad panel should not interrupt, cover, or prevent interaction with recipe features.
 
----
-
 ## Tasks
 1. Design the sidebar layout for the ad panel, ensuring it doesn’t cover recipe cards or main content.  
 2. Implement the ad panel in the front-end using HTML/CSS, ensuring proper sizing and spacing.  
@@ -78,21 +70,14 @@ The panel should automatically rotate ads or display relevant ads based on recip
 8. Test user experience to ensure ads are visible but not intrusive; confirm they don’t interfere with recipe interaction.  
 9. Implement a responsive design for mobile devices.  
 
----
-
 ## Effort Points:
-________
 
 ## Dependencies:
 - Recipe cards and recipe pages must be implemented first.  
 - The ad database or ad content must be available for integration.  
 
 ## Owner:
-__________
 
 ## Git Feature Branch:
-__________
 
 ## Modeling Documents:
-__________
-
