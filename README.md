@@ -10,17 +10,16 @@
 - The ad content is provided via an ad management system or database.  
 
 ## Description
-The ad panel should be visible but unobtrusive so users can browse recipes without feeling overwhelmed. Ads should be small enough to avoid disrupting the main content but large enough to be noticed and clicked, supporting website revenue goals.
+The ad panel should be visible but unobtrusive so users can browse recipes without feeling overwhelmed. Ads should be small enough to avoid disrupting the main content but 
+large enough to be noticed and clicked, supporting website revenue goals. The panel should automatically rotate ads or display relevant ads based on recipe content or user 
+behavior to improve click-through rates and user interests. Here are some key requirements after the discussion with the client: 
 
-The panel should automatically rotate ads or display relevant ads based on recipe content or user behavior to improve click-through rates and user interests.  
-
-### Key Requirements (from client discussion):
-- Ads are always visible but do **not** block or cover recipe content.  
-- No auto-play audio/video, pop-ups, or overlays.  
-- The panel displays multiple ads in a **scrolling or rotating** format.  
-- Users can fully interact with recipes without interference.  
-- Balanced design that supports both business needs and user experience.  
-- Panel must be responsive on desktop, tablets, and mobile devices.
+1. Ads are always visible but do **not** block or cover recipe content.  
+2. No auto-play audio/video, pop-ups, or overlays.  
+3. The panel displays multiple ads in a **scrolling or rotating** format.  
+4. Users can fully interact with recipes without interference.  
+5. Balanced design that supports both business needs and user experience.  
+5. Panel must be responsive on desktop, tablets, and mobile devices.
 
 ## Acceptance Criteria (Given / When / Then Format)
 
